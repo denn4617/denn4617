@@ -30,9 +30,8 @@ Feel free to check out my projects.
 
 <hr>
 <!--GITHUB STATS-->
-<div align="center">
-<h2 align="center">Github stats</h2> 
 
+## 📊 Github stats
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=denn4617&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&bg_color=0d1117&theme=gruvbox"/>
 
@@ -41,12 +40,13 @@ Feel free to check out my projects.
  
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=denn4617&theme=gruvbox&hide_border=true&background=0d1117" />
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=denn4617&theme=gruvbox&bg_color=0d1117&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=denn4617&theme=gruvbox&bg_color=0d1117&hide_border=true)
 
 </div>
 
 
 <!--LANGUAGES-->
-<h2 align="center">Languages</h2> 
+## 👨‍💻 Programming languages
 <p align="center">
   <!--C-->
   <a href="https://www.cprogramming.com/" target="_blank"> 
