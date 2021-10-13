@@ -7,6 +7,7 @@ Hi there!
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**I'm Dennis, a Software student at Aalborg University!**
 
+<br/>
 
 
 - Currently I'm working on a React Native application:iphone: You can follow the process in my Repo: [SpotBuddy](https://github.com/denn4617/SpotBuddy).
