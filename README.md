@@ -4,14 +4,17 @@ Hi there!
 <img src="https://media2.giphy.com/media/wTnwd842YQwN2Ki3hY/giphy.gif?cid=790b7611da802879a171e68b339dd12a52127be2c7b974b7&rid=giphy.gif&ct=sf" height="100" align="right" />
 </h1>
 
-
+<!--
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**I'm Dennis, a Software student at Aalborg University!**
-
+-->
+<p align="center">
+  **I'm Dennis, a Software student at Aalborg University!**
+<\p>
 <br/>
 
-
+- I'm in my fifth semester of studies towards a bachelor's in Computer Sciences :mortar_board:
 - Currently I'm working on a React Native application:iphone: You can follow the process in my Repo: [SpotBuddy](https://github.com/denn4617/SpotBuddy).
-- I'm in my fifth year of studies towards a bachelor's in Computer Sciences :mortar_board:
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=denn4617&repo=SpotBuddy&theme=gruvbox" />
 
 [![Discord](https://img.shields.io/badge/Discord-252422.svg?style=for-the-badge&logo=discord)](https://discordapp.com/users/352501722226098177/)
 [![Email](https://img.shields.io/badge/Email-252422.svg?style=for-the-badge&logo=gmail)](mailto:dkilia19@student.aau.dk)
