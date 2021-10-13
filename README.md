@@ -11,7 +11,7 @@ Hi there!
 </p>
 <br/>
 
-- I'm in my fifth semester of studies towards a bachelor's in Computer Sciences :mortar_board:
+- I'm in my fifth semester of studies towards a bachelor's degree in Computer Sciences :mortar_board:
 - Currently I'm working on a React Native application:iphone: You can follow the process in my Repo, shown below: 
 <div align="center">
  <a href="https://github.com/denn4617/SpotBuddy">
@@ -31,7 +31,7 @@ Feel free to check out my projects.
 <hr>
 <!--GITHUB STATS-->
 <div align="center">
-<h2 align="center">Github stats:</h2> 
+<h2 align="center">Github stats</h2> 
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=denn4617&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&bg_color=0d1117&theme=gruvbox"/>
@@ -46,7 +46,7 @@ Feel free to check out my projects.
 
 
 <!--LANGUAGES-->
-<h2 align="center">Languages:</h2> 
+<h2 align="center">Languages</h2> 
 <p align="center">
   <!--C-->
   <a href="https://www.cprogramming.com/" target="_blank"> 
