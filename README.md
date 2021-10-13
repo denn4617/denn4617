@@ -36,9 +36,11 @@ Feel free to check out my projects.
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=denn4617&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&bg_color=0d1117&theme=gruvbox"/>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denn4617&layout=compact&card_width=250&hide_border=true&bg_color=0d1117&theme=gruvbox"/> <br>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=denn4617&theme=gruvbox&hide_border=true&background=0d1117"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denn4617&layout=compact&card_width=250&hide_border=true&bg_color=0d1117&theme=gruvbox"/> <br>
+ 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=denn4617&theme=gruvbox&hide_border=true&background=0d1117" />
+
 
 </div>
 
