@@ -11,7 +11,7 @@ Hi there!
 </p>
 <br/>
 
-- I'm in my fifth semester of studies towards a bachelor's degree in Computer Sciences :mortar_board:
+- I'm in my 6th semester of studies towards a bachelor's degree in Computer Sciences :mortar_board:
 - Currently I'm working on a React Native application:iphone: You can follow the process in my Repo, shown below: 
 <div align="center">
  <a href="https://github.com/denn4617/SpotBuddy">
