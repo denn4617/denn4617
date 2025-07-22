@@ -1,29 +1,26 @@
 <!--INFO CARD-->
-<h1 align="center">
-<img src="https://media3.giphy.com/media/QLjDyhP2G9vKtQgziv/giphy.gif" height="100" align="left" />
-Hi there!
-<img src="https://media2.giphy.com/media/wTnwd842YQwN2Ki3hY/giphy.gif?cid=790b7611da802879a171e68b339dd12a52127be2c7b974b7&rid=giphy.gif&ct=sf" height="100" align="right" />
-</h1>
+<h1 align="center">Hi there!</h1>
 
-
-<p align="center">
-  **I'm Dennis, a Software student at Aalborg University!**
-</p>
+<h3 align="center">
+  I'm Dennis, a Software student at Aalborg University!
+</h3>
 <br/>
 
 - I'm in my 6th semester of studies towards a bachelor's degree in Computer Sciences :mortar_board:
-- Currently I'm working on a React Native application:iphone: You can follow the process in my Repo, shown below: 
+- Currently I'm working on a fullstack application, transcribing and summarizing uploaded meetings. You can follow the process in my Repo, shown below: 
 <div align="center">
- <a href="https://github.com/denn4617/SpotBuddy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=denn4617&repo=SpotBuddy&theme=gruvbox&bg_color=0d1117" />
+ <a href="https://github.com/denn4617/recappa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=denn4617&repo=recappa&theme=gruvbox&bg_color=0d1117" />
  </a>
 </div>
 
 &nbsp;
 <!--CONTACT-->
-[![Discord](https://img.shields.io/badge/Discord-252422.svg?style=for-the-badge&logo=discord)](https://discordapp.com/users/352501722226098177/)
-[![Email](https://img.shields.io/badge/Email-252422.svg?style=for-the-badge&logo=gmail)](mailto:dkilia19@student.aau.dk)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-252422.svg?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/dennis-kilic-2353441b4/)
+[![Email](https://img.shields.io/badge/Email-252422.svg?style=for-the-badge&logo=gmail)](mailto:dennis_kilic@hotmail.com)
+<br/>
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/dennis-kilic/)
+[![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://denn4617.github.io/portfolio-site/)
+
 
 Feel free to check out my projects.
 
@@ -40,8 +37,7 @@ Feel free to check out my projects.
  
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=denn4617&theme=gruvbox&hide_border=true&background=0d1117" />
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=denn4617&theme=gruvbox&bg_color=0d1117&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=denn4617&theme=gruvbox&bg_color=0d1117&hide_border=true)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=denn4617&theme=gruvbox&bg_color=0d1117&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 
@@ -76,5 +72,9 @@ Feel free to check out my projects.
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://img.shields.io/badge/Python-3776ab.svg?style=for-the-badge&logo=python&logoColor=black"
       alt="python"/>
+  </a>
+  <a href="https://laravel.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"
+      alt="laravel"/>
   </a>
 </p>
